@@ -1,3 +1,3 @@
-# dibujo-en-canvas_platzi.
-canvas para dibujar figurars sencilla (permite eleccion de color)
+# JohnRodriguezM-dibujo-en-canvas_platzi.
+# dibujo en canvas
 #
