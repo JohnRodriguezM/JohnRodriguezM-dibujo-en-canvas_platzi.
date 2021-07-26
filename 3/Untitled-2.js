@@ -1,4 +1,5 @@
-//Inicio proyecto Js//
+//Inicio proyecto Js.//
+//   //
 
 var dibujo = document.getElementById("canvis");
 var lienzo = dibujo.getContext("2d");
@@ -69,4 +70,6 @@ dibujar_linea(e.value,1,999,999,999);
 dibujar_linea(e.value,999,999,999,1);
 dibujar_linea(e.value,999,1,1,1);
 
-//Fin momentaneo proyecto js//
+// //
+
+//Fin momentaneo proyecto js.//
