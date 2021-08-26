@@ -5,8 +5,7 @@ Comenzando 🚀 (primer proyecto).
 
 Se realiza un pequeño trabajo mezclando ciertos puntos de HTML5, CSS3 y JS para lograr una caja que reciba el valor de un input y a traves de ello dibuje x cantidad de líneas dentro de la caja mencionada. Tambien se da un "mezclador" de colores en el que se puede elegir el color de las lineas que se van dibujar dentro de la caja.
 
-Ejecutando las pruebas ⚙️
-https://johnrodriguezm.github.io/dibujo_canvas_platzi/3/Untitled-1.html
+⚙️ see [here](https://johnrodriguezm.github.io/dibujo_canvas_platzi/3/Untitled-1.html)
 
 Construido con 🛠️
 
@@ -17,9 +16,6 @@ se usaron tecnologías de diseño y maquetado como :
 
 y también para agregar un poco de interactividad para el tema de valores en las cajas fue usado JS (javascript)
 
-Versionado 📌
-
-El sistema de control de versiones usado fue Git. 
 
 Autores ✒️
 
