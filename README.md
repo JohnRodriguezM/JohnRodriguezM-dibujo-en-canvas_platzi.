@@ -1,27 +1,31 @@
 
-# Dibujo en canvas  # Elección color
+# Dibujo en canvas 
+## Elección color
 
-Comenzando 🚀 (primer proyecto).
+Starting 🚀 (this is my first project).
 
-Se realiza un pequeño trabajo mezclando ciertos puntos de HTML5, CSS3 y JS para lograr una caja que reciba el valor de un input y a traves de ello dibuje x cantidad de líneas dentro de la caja mencionada. Tambien se da un "mezclador" de colores en el que se puede elegir el color de las lineas que se van dibujar dentro de la caja.
+Is a small project using **HTML5, CSS3 and JS.** 
+
+the user gives a value in the box (input) 
+
+the input receives the value
+
+with the value the lines are drawn, you can also choose the color of the line.
 
 ⚙️ see [here](https://johnrodriguezm.github.io/dibujo_canvas_platzi/3/Untitled-1.html)
 
-Construido con 🛠️
-
-se usaron tecnologías de diseño y maquetado como :
+Built with🛠️
 
 -HTML5
 -CSS3
 
-y también para agregar un poco de interactividad para el tema de valores en las cajas fue usado JS (javascript)
+also a little of Js for interactivuty with the user
 
-
-Autores ✒️
+Author ✒️
 
 John Jairo Rodriguez Medina
 
-⌨️ con ❤️ 
+⌨️ with ❤️ 
 
 
 
